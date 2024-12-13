@@ -221,4 +221,5 @@ export default {
   },
 
   ...remoteServicesCommunity,
+  ...remoteServicesThirdParty,
 }
